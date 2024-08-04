@@ -4,7 +4,9 @@ I'm an experienced digital marketer with over 14 years of experience working wit
 
 It is also during this time when I used my free time to learn about Data Science, starting with completing free courses with Kaggle.
 
-I will be using this Github account to document my journey and learnings in the Data Science field.
+I believe Data Science will be a good complementary to my existing talent stack and work experiences to provide a value add to future employers and freelance projects.
+
+In this Github account, I will be documenting my journey and learnings in the Data Science field.
 
 <!--
 **askchris/askchris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
